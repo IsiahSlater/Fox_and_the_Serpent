@@ -3,10 +3,10 @@ A 3D, live-action RPG project developed between my cousin Rider Takamiya and mys
 This repository will be the collection of both his writings as well as my art and programming progress
 
 Softwares Used:
-Unreal Engine - Game IDE
-Visual Studio - C++ IDE
-Photoshop - 2D art
-Blender - 3D art
+- Unreal Engine - Game IDE
+- Visual Studio - C++ IDE
+- Photoshop - 2D art
+- Blender - 3D art
 
 Implementations:
 - Main Character reference sheet
